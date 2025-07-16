@@ -1,4 +1,4 @@
-📚 Console-Based Library Management System (Go)
+### 📚 Console-Based Library Management System (Go)
 A simple console-based Library Management System written in Go that demonstrates the use of structs, interfaces, methods, slices, and maps. This project adheres to clean architecture and is organized for scalability and maintainability.
 
 🧩 Features
