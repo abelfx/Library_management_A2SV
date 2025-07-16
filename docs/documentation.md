@@ -16,8 +16,7 @@ A simple console-based Library Management System written in **Go** that demonstr
 
 ---
 ## 📁 Folder Structure
-
-library_management/
+<pre>library_management/
 ├── main.go # Entry point of the application
 ├── controllers/
 │ └── library_controller.go # Handles console interaction
@@ -28,7 +27,8 @@ library_management/
 │ └── library_service.go # Implements business logic & interface
 ├── docs/
 │ └── documentation.md # Additional documentation (optional)
-└── go.mod # Go module definition
+└── go.mod # Go module definition</pre>
+
 
 ## How to Run
 ```
